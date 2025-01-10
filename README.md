@@ -1,20 +1,19 @@
 # Sandbox
 
-You can just type text and it will be formatted.
+You can just type text and it will be formatted. And it will appear.
+
+A line break - will keep going in the text.
 
 Markdown also lets you use a bulleted list.
 * one
 * two
 * three and four
-* five
-* six
-
 
 
 And tables:
 |Name|Favorite Animal|
 |---|---|
-|Carly|Echidna|
+|Carly|Long-beaked Echidna|
 |Jaber|Tiger|
 
 ## Subheadings
